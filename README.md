@@ -1,2 +1,2 @@
-# kairo_tap
+# homebrew-kairo
 🫖🌿 homebrew tap for kairo ✨🌈
